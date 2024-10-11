@@ -1,0 +1,1056 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css" />
+    <title>Document</title>
+  </head>
+  <body>
+
+
+    <!-- start section navbar -->
+    <!-- start section navbar -->
+    <div class="navbar nav">
+      <div class="marg">
+      <div class="log"> 
+        <a href="#">DevFolio</a>
+      </div>
+      <div class="ul-nav">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">ABOUT</a></li>
+          <li><a href="#">SERVICES</a></li>
+          <li><a href="#">WORK</a></li>
+          <li><a href="#">BLOG</a></li>
+          <li><a href="#">DROP DOWN</a></li>
+          <li><a href="#">CONTACT</a></li>
+        </ul>
+      </div>
+    </div>
+    </div>
+    <!-- end section navbar -->
+    <!-- end section navbar -->
+
+    <!-- start section navbar -->
+    <!-- start section navbar -->
+    <div class="home">
+    <div class="text-home">
+      <h1>I am Morgan Freeman</h1>
+      <span>Freelancer</span>
+    </div>
+    </div>
+    <!-- end section home -->
+    <!-- end section home -->
+
+    <!-- start section about -->
+    <!-- start section about -->
+
+  <div class="about">
+    <div class="container">
+      <div class="row clr">
+        <div class="col-lg-6 mt-4">
+
+          <div class="d-flex test">
+            <img class="ft" src="css/Devfolio/testimonial-2.jpg" alt="">
+
+            <div class="text">
+              <h6>Name: Morgan Freeman</h6>
+              <h6>Profile: full stack developer</h6>
+              <h6>Email: contact@example.com</h6>
+              <h6>Phone: (617) 557-0089</h6>
+            </div>
+
+          </div>
+        
+          <div>
+            <br>
+            <h4>Skill</h4>
+            <br>
+            <span>html 85%</span>
+            <div class="progress" role="progressbar" aria-label="Basic example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+              <div class="progress-bar" style="width: 85%"></div>
+            </div>
+<br>
+            <span>CSS3 75%</span>
+            <div class="progress" role="progressbar" aria-label="Basic example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+              <div class="progress-bar" style="width: 75%"></div>
+            </div>
+<br>
+            <span>PHP 50%</span>
+            <div class="progress" role="progressbar" aria-label="Basic example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+              <div class="progress-bar" style="width: 50%"></div>
+            </div>
+<br>
+            <span>JAVASCRIPT 90%</span>
+            <div class="progress" role="progressbar" aria-label="Basic example" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+              <div class="progress-bar" style="width: 90%"></div>
+            </div>
+<br>
+          
+
+        </div>
+
+      </div>
+        <div class="col-lg-6 mt-4 lead ">
+          <div class="cont">
+            <h1>About me</h1>
+            <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla porttitor accumsan tincidunt.</p>
+            <p>Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. porttitor at sem.</p>
+            <p>Nulla porttitor accumsan tincidunt. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Nulla porttitor accumsan tincidunt. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.</p>
+          </div>
+        </div>
+    </div>
+  </div>
+  </div>
+    <!-- end section about -->
+    <!-- end section about -->
+
+    <!-- start section services -->
+    <!-- start section services -->
+  <div class="services">
+    <div class="container">
+
+      <div class="text-center bfre">
+        <h1>SERVICES</h1>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+      </div>
+
+      
+      <div class="row">
+        <div class="col-lg-4 text-center ">
+          <div class="clr lead srv opt">
+            <i class="fa-solid fa-briefcase"></i>
+            <h4>WEB DESIGN</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.            </p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 text-center ">
+          <div class="clr lead srv opt">
+            <i class="fa-solid fa-list-check"></i>
+            <h4>WEB DESIGN</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.            </p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 text-center ">
+          <div class="clr lead srv opt">
+            <i class="fa-solid fa-ranking-star"></i>
+            <h4>WEB DESIGN</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.            </p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 text-center ">
+          <div class="clr lead srv opt">
+            <i class="fa-solid fa-oil-can"></i>
+            <h4>WEB DESIGN</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.            </p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 text-center ">
+          <div class="clr lead srv opt">
+            <i class="fa-regular fa-sun"></i>
+            <h4>WEB DESIGN</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.            </p>
+          </div>
+        </div>
+
+        <div class="col-lg-4 text-center ">
+          <div class="clr lead srv opt">
+            <i class="fa-regular fa-calendar-days"></i>
+            <h4>WEB DESIGN</h4>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+      <!-- end section services -->
+      <!-- end section services -->
+
+      <!-- start section work -->
+      <!-- start section work -->
+
+      <div class="work">
+        <div class="container">
+          <div class="row cant align-items-center">
+            <div class="col-lg-3 text-center ">
+              <i class="fa-solid fa-check"></i>
+              <p>450</p>
+              <span>WORKS COMPLETED</span>
+            </div>
+            <div class="col-lg-3 text-center">
+              <i class="fa-solid fa-check"></i>
+              <p>450</p>
+              <span>WORKS COMPLETED</span>
+            </div>
+            <div class="col-lg-3 text-center">
+              <i class="fa-solid fa-check"></i>
+              <p>450</p>
+              <span>WORKS COMPLETED</span>
+            </div>
+            <div class="col-lg-3 text-center">
+              <i class="fa-solid fa-check"></i>
+              <p>450</p>
+              <span>WORKS COMPLETED</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- end section work -->
+      <!-- end section work -->
+
+      <!-- start section portfolio -->
+      <!-- start section portfolio -->
+
+      <div class="portfolio">
+        <div class="container">
+
+          <div class="text-center bfre">
+            <h1>PORTFOLIO</h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+          </div>
+
+          <div class="row ">
+            <div class="col-lg-4 con">
+                <div class="foot">
+              <img src="css/Devfolio/work-1.jpg" class="w-100" alt="">
+            </div>
+              <div class="cont-info">
+                <div class="text-port">
+                  <h6>Lorem impsum dolor</h6>
+                  <p><span>Web Design</span> / 18 Sep. 2018</p>
+                </div>
+                <div class="ico-port ">
+                  <i class="fa-solid fa-plus"></i>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 con">
+              <div class="foot">
+            <img src="css/Devfolio/work-2.jpg" class="w-100" alt="">
+          </div>
+            <div class="cont-info">
+              <div class="text-port">
+                <h6>Loreda Cuno Nere</h6>
+                <p><span>Web Design</span> / 18 Sep. 2018</p>
+              </div>
+              <div class="ico-port ">
+                <i class="fa-solid fa-plus"></i>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 con">
+            <div class="foot">
+          <img src="css/Devfolio/work-3.jpg" class="w-100" alt="">
+        </div>
+          <div class="cont-info">
+            <div class="text-port">
+              <h6>Mavrito Lana Dere</h6>
+              <p><span>Web Design</span> / 18 Sep. 2018</p>
+            </div>
+            <div class="ico-port ">
+              <i class="fa-solid fa-plus"></i>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 con">
+          <div class="foot">
+        <img src="css/Devfolio/work-4.jpg" class="w-100" alt="">
+      </div>
+        <div class="cont-info">
+          <div class="text-port">
+            <h6>Bindo Laro Cado</h6>
+            <p><span>Web Design</span> / 18 Sep. 2018</p>
+          </div>
+          <div class="ico-port ">
+            <i class="fa-solid fa-plus"></i>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-4 con">
+        <div class="foot">
+      <img src="css/Devfolio/work-5.jpg" class="w-100" alt="">
+    </div>
+      <div class="cont-info">
+        <div class="text-port">
+          <h6>Studio Lena Mado</h6>
+          <p><span>Web Design</span> / 18 Sep. 2018</p>
+        </div>
+        <div class="ico-port ">
+          <i class="fa-solid fa-plus"></i>
+        </div>
+      </div>
+    </div>
+
+    <div class="col-lg-4 con">
+      <div class="foot">
+    <img src="css/Devfolio/work-6.jpg" class="w-100" alt="">
+  </div>
+    <div class="cont-info">
+      <div class="text-port">
+        <h6>Studio Big Bang</h6>
+        <p><span>Web Design</span> / 18 Sep. 2017</p>
+      </div>
+      <div class="ico-port ">
+        <i class="fa-solid fa-plus"></i>
+      </div>
+    </div>
+  </div>
+
+          </div>
+
+
+        </div>
+      </div>
+
+      <!-- end section portfolio -->
+      <!-- end section portfolio -->
+
+      <!-- start section xavi -->
+      <!-- start section xavi -->
+
+      <div class="xavi">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 text-center">
+
+              <div class="foto-xavi lead">
+                <img src="css/Devfolio/testimonial-2.jpg" alt="foto xavi">
+                <h2>XAVI ALONSO</h2>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Magni maxime suscipit eligendi maiores illo reprehenderit.</p>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- end section xavi-->
+      <!-- end section xavi-->
+
+      <!-- start section blog -->
+      <!-- start section blog -->
+
+      <div class="blog">
+        <div class="container">
+          <div class="text-center bfre">
+            <h1>BLOG</h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-4">
+              <div class="blog-foto">
+                <div class="layeer"></div>
+                <img class="w-100" src="css/Devfolio/post-1.jpg" alt="">
+              </div>
+              <div class="cont-morgn">
+              <h4>See more ideas about Travel</h4>
+              <p>Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</p>
+              <div class="d-flex brd">
+              <div class="morgan">
+                <img class="morg" src="css/Devfolio/testimonial-2.jpg" alt="">
+                <p>Morgan Freeman</p>
+              </div>
+              <div class="time">
+                <i class="fa-regular fa-clock"></i>
+                <span> 10 min</span>
+              </div>
+            </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4">
+            <div class="blog-foto">
+              <div class="layeer2"></div>
+              <img class="w-100" src="css/Devfolio/post-2.jpg" alt="">
+            </div>
+            <div class="cont-morgn">
+            <h4>See more ideas about Travel</h4>
+            <p>Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</p>
+            <div class="d-flex brd">
+            <div class="morgan">
+              <img class="morg" src="css/Devfolio/testimonial-2.jpg" alt="">
+              <p>Morgan Freeman</p>
+            </div>
+            <div class="time">
+              <i class="fa-regular fa-clock"></i>
+              <span> 10 min</span>
+            </div>
+          </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4">
+          <div class="blog-foto">
+            <div class="layeer3"></div>
+            <img class="w-100" src="css/Devfolio/post-3.jpg" alt="">
+          </div>
+          <div class="cont-morgn">
+          <h4>See more ideas about Travel</h4>
+          <p>Proin eget tortor risus. Pellentesque in ipsum id orci porta dapibus. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</p>
+          <div class="d-flex brd">
+          <div class="morgan">
+            <img class="morg" src="css/Devfolio/testimonial-2.jpg" alt="">
+            <p>Morgan Freeman</p>
+          </div>
+          <div class="time">
+            <i class="fa-regular fa-clock"></i>
+            <span> 10 min</span>
+          </div>
+        </div>
+        </div>
+      </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- end section blog -->
+      <!-- end section blog -->
+
+      
+      <!-- start section contact -->
+      <!-- start section contact -->
+
+      <div class="contact">
+        <div class="container our-cont">
+          <div class="row">
+
+            <div class="col-lg-6">
+              <div class="contact-info">
+              <h2>Send Message Us</h2>
+              <input type="text" id="text" placeholder="Your Name">
+              <input type="email" id="email" placeholder="Your Email">
+              <input type="text" id="subject" placeholder="Subject">
+              <textarea name="Message" id="textarea" placeholder="Message" cols="30" rows="7"></textarea>
+              <button type="submit">Send Message</button>
+            </div>
+
+            </div>
+            <div class="col-lg-6">
+              <div class="contact-info2">
+                <h2>Get in Touch</h2>
+                <p class="lead">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis dolorum dolorem soluta quidem expedita aperiam aliquid at. Totam magni ipsum suscipit amet? Autem nemo esse laboriosam ratione nobis mollitia inventore?</p>
+                
+                <div class="icon-contact">
+                  <p><i class="fa-solid fa-location-dot"></i>  329 WASHINGTON ST BOSTON, MA 02108</p>
+                  <p><i class="fa-solid fa-mobile-screen-button"></i> (617) 557-0089</p>
+                  <p><i class="fa-regular fa-envelope"></i>  contact@example.com</p>
+                </div>
+                
+                <div class="all-icon-contact">
+                  <i class="fa-brands fa-facebook-f allic"></i>
+                  <i class="fa-brands fa-instagram  allic"></i>
+                  <i class="fa-brands fa-twitter allic"></i>
+                  <i class="fa-brands fa-linkedin allic"></i>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- end section contact -->
+      <!-- end section contact -->
+
+      <!-- start section copyright -->
+      <!-- start section copyright -->
+
+      <div class="copyright">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="cont-copy lead">
+              <p>© Copyright DevFolio. All Rights Reserved</p>
+              <h6>Designed by BootstrapMade</h6>
+
+            </div>
+            </div>
+          </div>
+        </div>
+        <div class="arrow">
+          <i class="fa-solid fa-arrow-up"></i>
+        </div>
+      </div>
+
+      
+    <script src="js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>
+
+
+
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.clear-fix{
+    clear: both;
+}
+.nav{
+    background-color: rgba(0, 0, 0, 0.9);
+    position: fixed;
+    width: 100%;
+    font-family: "Roboto", sans-serif;
+    padding-top: 1.25rem;
+    z-index: 1;
+}
+.marg{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 85%;
+    margin: auto;
+}
+.log a {
+    color: white;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+.ul-nav ul{
+    display: flex;
+    justify-content: center;
+    transition: all 1s;
+    position: relative;
+
+}
+.ul-nav ul li {
+    padding: 0 0.625rem;
+    /* background-color: teal; */
+    position: relative;
+    transition: all 1s;
+}
+.ul-nav ul li a {
+    color: white;
+    font-size: 1.25rem;
+    position: relative;
+
+}
+
+
+.ul-nav ul li::after{
+    content:"";
+    width:0px;
+    height:0.1875rem;
+    background-color: red;
+    position:absolute;
+    top:1.875rem;
+    left:0;
+    transition: all 1s;
+
+}
+.ul-nav ul:hover li::after{
+    width: 100px;
+    background-color: tomato;
+}
+
+
+
+
+
+
+
+
+
+
+/* 
+انا عاكك شويه في الnavbar بس بجد مش عارف اجيبها يمين او شمال حتي  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* end section navbar */
+/* end section navbar */
+
+.home{
+    background-color: teal;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0 , 0 ,0 ,0.6) 0% 100%) , url(Devfolio/hero-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.home .text-home{
+    color: white;
+    text-align: center;
+    font-size: 4.375rem;
+    font-weight: 600;
+    font-family: "Roboto", sans-serif;
+}
+/* end section home */
+/* end section home */
+
+
+
+.about{
+    background-color: #EEEEEE;
+    padding: 1.875rem;
+}
+
+.clr{
+    background-color: white;
+    padding: 1.875rem;
+}
+.test{
+    /* background-color: brown; */
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    
+}
+.ft{
+    border-radius: 5%;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    /* background-color: tomato; */
+    align-items: flex-start;
+    width: 40%;
+    margin: auto;
+}
+.text h6{
+    padding: 0.3125rem 0;
+}
+.cont h1{
+    /* background-color: tan; */
+    margin-bottom: 1.875rem;
+}
+.cont{
+    position: relative;
+}
+.cont h1::before{
+    content: "";
+    width: 7.5rem;
+    height: 0.3125rem;
+    background-color: #0078FF;
+    position: absolute;
+    top: 12%;
+    left: 0;
+}
+.services{
+    background-color: #EEEEEE;
+}
+.srv i{
+    font-size: 3.125rem;
+}
+.srv h4{
+    padding: 0.625rem 0;
+}
+.bfre{
+    padding: 1.875rem 0;
+}
+.bfre p{
+    position: relative;
+    
+}
+.bfre p::before{
+    content: "";
+    width: 2.5rem;
+    height:.2875rem;
+    background-color: #0078FF;
+    position: absolute;
+    top: 150%;
+    left: 49%;
+}
+.opt{
+    margin: 1.25rem 0;
+    border-radius: 1.25rem;
+}
+.opt i{
+    padding: 1.25rem;
+    border: 5px solid #0078FF;
+    width: 30%;
+    height: 20%;
+    border-radius: 100%;
+    transition: all 0.5s;
+}
+.opt:hover i{
+    color: white;
+    background-color: #0078FF;
+}
+.work{
+    background-image:linear-gradient(#0077ff7e 0% 100%) ,url(Devfolio/counters-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 50vh;
+    color: white;
+    background-attachment: fixed;
+}
+.work i{
+    border: solid 0.3125rem #CDE1F8;
+    padding: 0.9365rem 0.9365rem;
+    border-radius: 50%;
+    font-size: 1.875rem;
+}
+.work p{
+    font-size: 1.5625rem;
+    padding-top: 0.625rem;
+}
+.cant{
+    height: 50vh;
+}
+
+.portfolio{
+    background-color: #F5F5F5;
+}
+.cont-info span {
+    color: #1d87ff;
+}
+.cont-info{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    align-items: center;
+}
+.text-port{
+    /* background-color: brown; */
+    width: 70%;
+    padding: 1.25rem;
+}
+.ico-port {
+    /* background-color: tomato; */
+    padding: 1.25rem;
+}
+.ico-port i {
+    border: 0.3125rem #1d87ff solid; 
+    padding: 0.625rem;
+    border-radius: 50%;
+    color: #0078FF;
+}
+.con img{
+    transition: all 1s;
+}
+.con{
+    margin: 1.25rem 0;
+}
+.con:hover img{
+    transform: scale(1.3);
+    overflow: hidden;
+}
+
+.cctr{
+    overflow: hidden;
+    background-color: teal;
+}
+.foot{
+    overflow: hidden;
+}
+
+.xavi{
+    background-image:linear-gradient(#0077ffaa 0% 100%), url(Devfolio/overlay-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    height: 70vh;
+}
+.foto-xavi{
+    /* background-color: brown; */
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+    height: 70vh;
+    color: white;
+}
+.xavi img{
+    border-radius: 50%;
+    background-color: tomato;
+}
+.foto-xavi h2{
+    padding: 0.9375rem 0;
+}
+
+.blog{
+    background-color: #EEEEEE;
+    padding: 1.875rem 0;
+}
+
+.cont-morgn{
+    background-color: white;
+    padding: 0 0.625rem;
+
+}
+.cont-morgn h4{
+    padding-top: 1.25rem;
+}
+.morg{
+    width: 20%;
+    border-radius: 50%;
+    /* margin-bottom: 10px; */
+    padding: 0 0.625rem;
+}
+
+.morgan{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.morgan p{
+    padding-top: 0.9375rem;
+}
+.time{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 40%;
+    margin: auto;
+    padding: 0.625rem ;
+}
+.time i {
+    font-size: 1.25rem;
+    padding: 0px 0.3125rem;
+    padding-top: 0.3125rem;
+}
+.brd{
+    border-top: 0.0625rem solid gray;
+}
+.blog-foto{
+    position: relative;
+}
+.layeer::before{
+    content: "Travel";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    width: 7.8125rem;
+    height:1.5625rem;
+    background-color: #09c;
+    margin: auto;
+    padding: 0 2.5rem;
+    transform: translate(-50% , -50%);
+    border-radius: 0.3125rem;
+    color: white;
+}
+.layeer2::before{
+    content: "WEB DESIGN";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    width: 7.8125rem;
+    height:1.5625rem;
+    background-color: #09c;
+    margin: auto;
+    padding: 0 0.9375rem;
+    transform: translate(-50% , -50%);
+    border-radius: 0.3125rem;
+    color: white;
+}
+.layeer3::before{
+    content: "WEB DESIGN";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    width: 7.8125rem;
+    height:1.5625rem;
+    background-color: #09c;
+    margin: auto;
+    padding: 0 0.9375rem;
+    transform: translate(-50% , -50%);
+    border-radius: 0.3125rem;
+    color: white;
+}
+
+.contact{
+    background-image:  linear-gradient(#1d87ffc3 0% 100%),url(Devfolio/overlay-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    padding: 5.625rem 0;
+}
+.our-cont{
+    background-color: white;
+    padding: 1.875rem;
+    width: 90%;
+    margin: auto;
+}
+.contact-info{
+    /* background-color: teal; */
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.contact-info h2{
+    position: relative;
+    padding-bottom: 20px;
+}
+.contact-info h2::before{
+    content: "";
+    position: absolute;
+    width: 6.875rem;
+    height: 0.1875rem;
+    background-color: #1d87ff;
+    top: 2.8125rem;
+    left: 0;
+}
+#text{
+    padding: 0.625rem;
+    width: 100%;
+    border: 0.0625rem solid #dee2e6;
+    border-radius: 0.1875rem;
+    margin: 0.625rem;
+    margin-left: 0;
+}
+#email{
+    padding:  0.625rem;
+    width: 100%;
+    border:  0.0625rem solid #dee2e6;
+    border-radius: 3px;
+    margin:  0.625rem;
+    margin-left: 0;
+
+}
+#subject{
+    padding:  0.625rem;
+    width: 100%;
+    border:  0.0625rem solid #dee2e6;
+    border-radius: 0.1875rem;
+    margin:  0.625rem;
+    margin-left: 0;
+
+}
+#textarea{
+    padding: 0.625rem;
+    width: 100%;
+    border:  0.0625rem solid #dee2e6;
+    border-radius:0.1875rem;
+    margin:  0.625rem;
+    margin-left: 0;
+}
+.contact-info button{
+    background-color: #1d87ff;
+    padding:  0.625rem 1.5625rem;
+    border-radius: 1.5625rem;
+    border: solid  0.0625rem #1d87ff;
+    color: white;
+    align-self: center;
+    margin: 0.9375rem 0;
+}
+.contact-info2 h2{
+    margin-bottom: 1.875rem;
+    position: relative;
+}
+.contact-info2 h2::after{
+    content: "";
+    position: absolute;
+    width: 100px;
+    height: 0.188rem;
+    top: 2.8125rem;
+    left: 0;
+    background-color: #1d87ff;
+}
+.icon-contact i{
+    /* background-color: tan; */
+    padding: 0.625rem;
+    padding-left: 0;
+    color: #1d87ff;
+}
+.all-icon-contact{
+    /* background-color: brown; */
+    padding-left:  0.625rem;
+    margin-top: 1.875rem;
+}
+.allic{
+    padding:  0.625rem 0.9375rem;
+    font-size: 1.25rem;
+    border: 0.1875rem solid  #1d87ff;
+    border-radius: 50%;
+    transition: all 0.3s;
+}
+.allic:hover{
+    color: white;
+    border: 0.1875rem solid #1d87ff8c;
+    background-color: #1d87ff;
+}
+.copyright{
+    background-color: #0077ff;
+}
+.cont-copy{
+    /* background-color: brown; */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    margin: 1.25rem 0;
+}
+.arrow{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    /* background-color: tomato; */
+    width: 95%;
+    margin: auto;
+    padding: 15px 0;
+    
+}
+.arrow i {
+    font-size: 1.25rem;
+    color: white;
+    padding: .625rem;
+    border: .125rem solid #1d87ff ;
+    border-radius: 50%;
+    background-color: #298EFF;
+    transition: all 0.3s;
+
+}
+.arrow i:hover{
+    background-color: #1c71d3;
+}
